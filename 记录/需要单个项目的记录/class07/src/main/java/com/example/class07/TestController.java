@@ -17,6 +17,7 @@ public class TestController {
     public int test1() throws InterruptedException {
         System.out.println("<1>");
         at.asyncLog();
+        //Thread.sleep(3000);
         System.out.println("<3>");
         return 3;
     }
