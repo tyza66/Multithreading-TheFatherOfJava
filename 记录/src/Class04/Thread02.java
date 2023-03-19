@@ -13,15 +13,16 @@ public class Thread02 implements Runnable {
 
     public static void main(String[] args) {
         //new Thread02().runThread2(new Thread02());
-        //java8新特性 lamada表达式
+        //java8新特性 lambda表达式
         new Thread(new Runnable() {
             @Override
             public void run() {
                 System.out.println(Thread.currentThread().getName()+"<我是子线程>");
             }
         }).start();
+        //变完
         new Thread(()->{
-
+            System.out.println(Thread.currentThread().getName()+"<我是子线程>");
         }).start();
     }
 }
