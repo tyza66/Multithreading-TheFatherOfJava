@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1a99465-dc07-4a77-a9e0-4162e6e28704" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/src/main/java/com/example/class07/Class07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/src/main/java/com/example/class07/Class07Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/src/test/java/com/example/class07/Class07ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class01/Class01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class02/Class02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class03/Class03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class04/Class04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class04/Thread01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class04/Thread02$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class04/Thread02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class05/Class05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class05/Task04$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class05/Task04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class05/Thread02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class05/ThreadCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class06/Class06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class06/Test03$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/Class06/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/记录/META-INF/记录.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class01/Class01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class02/Class02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class03/Class03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class04/Class04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class04/Thread01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class04/Thread02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class05/Class05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class05/Task04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class05/Thread02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class05/ThreadCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class06/Class06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class06/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/记录.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/class07">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\shun_\Desktop\Project\Public\Multithreading-TheFatherOfJava\记录\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NDitTiEehsK6U2MEeETdKOy7C2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shun_\Desktop\Project\Public\Multithreading-TheFatherOfJava\记录\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test03">
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class05.Task04" />
+      <module name="记录" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class06.Test03" />
+      <module name="记录" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.Thread01" />
+      <module name="记录" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class05.Thread02" />
+      <module name="记录" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.Thread02" />
+      <module name="记录" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Thread02 (1)" />
+        <item itemvalue="Application.Thread02" />
+        <item itemvalue="Application.Thread01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a99465-dc07-4a77-a9e0-4162e6e28704" name="默认更改列表" comment="" />
+      <created>1679205267637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679205267637</updated>
+      <workItem from="1679205270835" duration="8057000" />
+      <workItem from="1679214389348" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1679209238035">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="110" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1679209238035" />
+    <state x="851" y="299" key="FileChooserDialogImpl" timestamp="1679214563821">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="851" y="299" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1679214563821" />
+    <state width="1232" height="122" key="GridCell.Tab.0.bottom" timestamp="1679214213553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1232" height="122" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1679214213553" />
+    <state width="1232" height="122" key="GridCell.Tab.0.center" timestamp="1679214213553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1232" height="122" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1679214213553" />
+    <state width="1232" height="122" key="GridCell.Tab.0.left" timestamp="1679214213553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1232" height="122" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1679214213553" />
+    <state width="1232" height="122" key="GridCell.Tab.0.right" timestamp="1679214213553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1232" height="122" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1679214213553" />
+    <state x="215" y="128" key="new project wizard" timestamp="1679214598888">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="215" y="128" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1679214598888" />
+    <state x="754" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1679213578081">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="754" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1679213578081" />
+  </component>
+</project>
