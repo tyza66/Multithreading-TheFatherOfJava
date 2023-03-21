@@ -7,7 +7,6 @@ public class Test02 {
 
     public static void main(String[] args) throws InterruptedException {
         new Test02().print();
-        Thread.sleep(3000);
         //objectLock.notify(); 非静态成员不能被成员静态方法所调用
     }
 
@@ -26,5 +25,10 @@ public class Test02 {
                 }
             }
         }).start();
+        //主线程三秒之后就会唤醒子线程
+        Thread.sleep(3000);
+        synchronized (objectLock){
+            objectLock.notify();
+        }
     }
 }
