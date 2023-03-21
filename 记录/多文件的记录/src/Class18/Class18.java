@@ -14,5 +14,8 @@ public class Class18 {
         waitset集合里面存放的就是wait了的线程 现在一旦调用了一下notify，就会唤醒线程
         唤醒的这个线程就会重新进入到获取锁的一个流程 entrylist
         这些东西似乎有点超纲了
+        用synchronized的代码段多个线程去抢一个锁，抢到锁的线程才能去执行
+        如果没有抢到这个锁，他是会有一个锁的升级过程的
+        没有抢到锁的线程存放在blockedThreads 他的集合名称叫entrylist
     */
 }
