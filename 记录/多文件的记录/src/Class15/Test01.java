@@ -12,7 +12,10 @@ public class Test01 {
         //wait方法会释放锁的资源，同时当前线程会阻塞
         //结合synchronized锁使用的
         synchronized (this){
+            System.out.println("111");
+            //主线程释放锁资源，通知主线程也会阻塞
             this.wait();
+            System.out.println("222");
         }
     }
 }
