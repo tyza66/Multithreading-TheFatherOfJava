@@ -23,5 +23,6 @@
 - Class20：多线程的七种执行状态
 - Class21：sleep防止生产环境cpu飙高
 - Class22：守护线程和用户线程
+- Class23：如何安全地停止一个线程
 
 By：tyza66(洮羱芝闇)
