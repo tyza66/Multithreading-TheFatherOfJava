@@ -26,7 +26,7 @@ public class Thread10_1 {
                     lock.lock();
                     System.out.println(Thread.currentThread().getName() + "获得锁成功");
                 } catch (Exception e) {
-                }finally{
+                } finally {
                     //释放锁
                     lock.unlock();
                 }

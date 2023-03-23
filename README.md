@@ -26,5 +26,6 @@
 - Class23：如何安全地停止一个线程
 - Class24：Lock锁与synchroized锁的区别
 - Class25：Lock锁的用法
+- Class26：多线程中的yieId方法
 
 By：tyza66(洮羱芝闇)
