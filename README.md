@@ -27,5 +27,9 @@
 - Class24：Lock锁与synchroized锁的区别
 - Class25：Lock锁的用法
 - Class26：多线程中的yieId方法
+- Class27：多线程的优先级
+- Class28：join/wait与sleep之间的不同
+- Class29：为什么wait和notify放在父类Object类中
+- Class30：从字节码角度分析线程安全问题
 
 By：tyza66(洮羱芝闇)
