@@ -24,5 +24,6 @@
 - Class21：sleep防止生产环境cpu飙高
 - Class22：守护线程和用户线程
 - Class23：如何安全地停止一个线程
+- Class24：Lock锁与synchroized锁的区别
 
 By：tyza66(洮羱芝闇)

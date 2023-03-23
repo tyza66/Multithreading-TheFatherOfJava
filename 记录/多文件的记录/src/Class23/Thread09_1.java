@@ -1,6 +1,7 @@
 package Class23;
 
 public class Thread09_1 extends Thread {
+    //使用volatile关键字 保证线程可见性 不加的话子线程不会自己终止
     public volatile boolean isStart = true;
     @Override
     public void run() {
