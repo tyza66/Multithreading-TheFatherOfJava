@@ -32,5 +32,6 @@
 - Class29：为什么wait和notify放在父类Object类中
 - Class30：从字节码角度分析线程安全问题
 - Class31：Callable与FutureTask的底层实现原理 手写Callable与和FutureTask
+- Class32：纯手写日志框架和设计原理
 
 By：tyza66(洮羱芝闇)

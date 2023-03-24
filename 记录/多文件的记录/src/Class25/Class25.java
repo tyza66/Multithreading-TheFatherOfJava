@@ -7,5 +7,6 @@ public class Class25 {
         Lock锁的获取锁和释放锁需要开发人员自己来定义
         使用Lock的时候注意 有获取锁的过程就要有释放锁
         Lock锁使用之前synchroized锁中的wait和notify 使用condition
+        condition有await和singal方法
     */
 }

@@ -33,7 +33,7 @@ public class Thread11 {
     }
 
     public void cal() {
-        //要是用Lock里面的wait和niotify功能先要拿到这个
+        //要是用Lock里面的wait和notify功能先要拿到这个
         // Condition condition = lock.newCondition();
         new Thread(new Runnable() {
             @Override
