@@ -11,5 +11,8 @@ public class Test02 {
         blockingDeque.offer("log1");
         //从当前队列中取出一个 可以取出来log1
         System.out.println(blockingDeque.poll());
+        System.out.println(blockingDeque.poll());
+        System.out.println(blockingDeque.poll());
+        //我们只要这样 再异步开启一个线程将日志写入到磁盘中
     }
 }
