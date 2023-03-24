@@ -9,6 +9,9 @@ public class Class31 {
         我们需要建立一个FutureTask并且把我们的Callable传递给我们的FutureTask
         之后再讲FutureTask交给我们的Thread线程执行
         之后我们一旦调用了FutureTask的get方法，主线程就会阻塞等待子线程执行完毕拿到子线程的返回值
-        
+        这个代码有两种实现方式 loadSupport第二种是使用wait和notify
+        我们可以自己实现一个Callable
+        FutureTask能被Thread执行，是因为他实现了Runnable接口
+        我们也要自己写一个FutureTask
     */
 }
